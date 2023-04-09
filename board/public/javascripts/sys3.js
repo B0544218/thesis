@@ -1,25 +1,46 @@
 Highcharts.setOptions({
     colors: [ '#FAA74B','#01BAF2', '#71BF45','#f6fa4b', '#fbb2ea']
 }); 
+
+fetch('./input_data_BR.json').then((response) => {
+  return response.json();
+}).then((s_json) => {
+const output = s_json.filter(function(obj) {
+  return obj.username == 108208505;
+});
+for (let index in output) {
+	if (output[index]["class"] == 0)
+		output[index]["class"] = "閱讀&重點整理";
+    else if (output[index]["class"] == 1)
+		output[index]["class"] = "閱讀";
+	else if (output[index]["class"] == -1)
+		output[index]["class"] = "沒有策略";
+}
+
 Highcharts.chart('container3', {
   chart: {
     type: 'column'
   },
   title: {
-    text: 'EBook system'
+    text: 'BookRoll'
   },
-  subtitle:{
-    text:'Behavior'
+  xAxis: [{
+    categories: ['week1' + '<br/>行為長度: ' + output[0]["length"], 
+	'week2' + '<br/>行為長度: ' + output[1]["length"], 'week3' + '<br/>行為長度: ' + output[2]["length"],
+	'week4' + '<br/>行為長度: ' + output[3]["length"], 'week5' + '<br/>行為長度: ' + output[4]["length"], 
+	'week6' + '<br/>行為長度: ' + output[5]["length"], 'week7' + '<br/>行為長度: ' + output[6]["length"]]
   },
-  xAxis: {
-    categories: ['week1' + '<br/>行為長度:', 'week2' + '<br/>行為長度:', 'week3' + '<br/>行為長度:', 'week4' + '<br/>行為長度:', 'week5' + '<br/>行為長度:', 'week6' + '<br/>行為長度:', 'week7' + '<br/>行為長度:']
-  },
+  {
+    categories: [output[0]["class"], output[1]["class"], output[2]["class"], output[3]["class"],
+	output[4]["class"], output[5]["class"], output[6]["class"]],
+    opposite: true
+  }],
   yAxis: {
     min: 0,
     max: 100,
     
     title: {
-      text: 'Percentage of your behavior in EBook'
+      text: 'Percentage of your behavior'
     },
     labels: {
       format:'{value} %'
@@ -43,12 +64,30 @@ Highcharts.chart('container3', {
   },
   series: [{
     name: '閱讀',
-    data: [	84,	68,	42,	26,	19,	15,	15]
+    data: [	output[0]["Reading"], output[1]["Reading"], output[2]["Reading"], 
+	output[3]["Reading"], output[4]["Reading"], 
+	output[5]["Reading"], output[6]["Reading"] ]
   }, {
     name: '劃記重點',
-    data: [12,	21,	42,	53,	59,	61,	61]
+    data: [	output[0]["Highligt"], output[1]["Highligt"], output[2]["Highligt"], 
+	output[3]["Highligt"], output[4]["Highligt"], 
+	output[5]["Highligt"], output[6]["Highligt"] ]
   }, {
     name: '筆記',
-    data: [4,	11,	16,	21,	22,	24,	24]
+    data: [	output[0]["Notetaking"], output[1]["Notetaking"], output[2]["Notetaking"], 
+	output[3]["Notetaking"], output[4]["Notetaking"], 
+	output[5]["Notetaking"], output[6]["Notetaking"] ]
+  },
+  {
+	// 加這段是為了顯示x axis上面的文字
+	name: '空的',
+    data: [0, 0, 0, 0, 0,0,0],
+    xAxis: 1
   }]
 });
+
+  
+}).catch((error) => {
+  console.log('There has been a problem with your fetch operation: ' + error.message);
+});
+

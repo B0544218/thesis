@@ -1,0 +1,3432 @@
+[
+  {
+    "username": 108208505,
+    "weeks": 1,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 20,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 108208505,
+    "weeks": 2,
+    "length": 37,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 45,
+    "Notetaking": 2,
+    "empty": 0
+  },
+  {
+    "username": 108208505,
+    "weeks": 3,
+    "length": 28,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 39,
+    "Notetaking": 10,
+    "empty": 0
+  },
+  {
+    "username": 108208505,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108208505,
+    "weeks": 5,
+    "length": 18,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 27,
+    "Notetaking": 22,
+    "empty": 0
+  },
+  {
+    "username": 108208505,
+    "weeks": 6,
+    "length": 41,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 46,
+    "Notetaking": 2,
+    "empty": 0
+  },
+  {
+    "username": 108208505,
+    "weeks": 7,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108401512,
+    "weeks": 1,
+    "length": 59,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 47,
+    "Notetaking": 1,
+    "empty": 0
+  },
+  {
+    "username": 108401512,
+    "weeks": 2,
+    "length": 39,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 41,
+    "Notetaking": 7,
+    "empty": 0
+  },
+  {
+    "username": 108401512,
+    "weeks": 3,
+    "length": 9,
+    "class": 1,
+    "Reading": 55,
+    "Highligt": 11,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 108401512,
+    "weeks": 4,
+    "length": 21,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 47,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108401512,
+    "weeks": 5,
+    "length": 35,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 45,
+    "Notetaking": 2,
+    "empty": 0
+  },
+  {
+    "username": 108401512,
+    "weeks": 6,
+    "length": 29,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 41,
+    "Notetaking": 6,
+    "empty": 0
+  },
+  {
+    "username": 108401512,
+    "weeks": 7,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 0,
+    "Notetaking": 40,
+    "empty": 0
+  },
+  {
+    "username": 108408513,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108408513,
+    "weeks": 2,
+    "length": 40,
+    "class": 0,
+    "Reading": 45,
+    "Highligt": 35,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 108408513,
+    "weeks": 3,
+    "length": 33,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 24,
+    "Notetaking": 24,
+    "empty": 0
+  },
+  {
+    "username": 108408513,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108408513,
+    "weeks": 5,
+    "length": 33,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 9,
+    "Notetaking": 39,
+    "empty": 0
+  },
+  {
+    "username": 108408513,
+    "weeks": 6,
+    "length": 47,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 17,
+    "Notetaking": 31,
+    "empty": 0
+  },
+  {
+    "username": 108408513,
+    "weeks": 7,
+    "length": 21,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 4,
+    "Notetaking": 42,
+    "empty": 0
+  },
+  {
+    "username": 108409003,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108409003,
+    "weeks": 2,
+    "length": 61,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 42,
+    "Notetaking": 6,
+    "empty": 0
+  },
+  {
+    "username": 108409003,
+    "weeks": 3,
+    "length": 43,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 27,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 108409003,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108409003,
+    "weeks": 5,
+    "length": 21,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 23,
+    "Notetaking": 23,
+    "empty": 0
+  },
+  {
+    "username": 108409003,
+    "weeks": 6,
+    "length": 13,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 38,
+    "Notetaking": 7,
+    "empty": 0
+  },
+  {
+    "username": 108409003,
+    "weeks": 7,
+    "length": 13,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 38,
+    "Notetaking": 7,
+    "empty": 0
+  },
+  {
+    "username": 108409019,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108409019,
+    "weeks": 2,
+    "length": 35,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 34,
+    "Notetaking": 14,
+    "empty": 0
+  },
+  {
+    "username": 108409019,
+    "weeks": 3,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108409019,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108409019,
+    "weeks": 5,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108409019,
+    "weeks": 6,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108409019,
+    "weeks": 7,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108409021,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108409021,
+    "weeks": 2,
+    "length": 56,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 25,
+    "Notetaking": 25,
+    "empty": 0
+  },
+  {
+    "username": 108409021,
+    "weeks": 3,
+    "length": 17,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 23,
+    "Notetaking": 23,
+    "empty": 0
+  },
+  {
+    "username": 108409021,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108409021,
+    "weeks": 5,
+    "length": 81,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 25,
+    "Notetaking": 23,
+    "empty": 0
+  },
+  {
+    "username": 108409021,
+    "weeks": 6,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108409021,
+    "weeks": 7,
+    "length": 13,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 38,
+    "Notetaking": 7,
+    "empty": 0
+  },
+  {
+    "username": 108409515,
+    "weeks": 1,
+    "length": 13,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 30,
+    "Notetaking": 15,
+    "empty": 0
+  },
+  {
+    "username": 108409515,
+    "weeks": 2,
+    "length": 44,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 38,
+    "Notetaking": 11,
+    "empty": 0
+  },
+  {
+    "username": 108409515,
+    "weeks": 3,
+    "length": 70,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 11,
+    "Notetaking": 38,
+    "empty": 0
+  },
+  {
+    "username": 108409515,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108409515,
+    "weeks": 5,
+    "length": 48,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 25,
+    "Notetaking": 25,
+    "empty": 0
+  },
+  {
+    "username": 108409515,
+    "weeks": 6,
+    "length": 57,
+    "class": 0,
+    "Reading": 49,
+    "Highligt": 19,
+    "Notetaking": 31,
+    "empty": 0
+  },
+  {
+    "username": 108409515,
+    "weeks": 7,
+    "length": 30,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 16,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 108409518,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108409518,
+    "weeks": 2,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 0,
+    "Notetaking": 40,
+    "empty": 0
+  },
+  {
+    "username": 108409518,
+    "weeks": 3,
+    "length": 17,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 41,
+    "Notetaking": 5,
+    "empty": 0
+  },
+  {
+    "username": 108409518,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108409518,
+    "weeks": 5,
+    "length": 11,
+    "class": 1,
+    "Reading": 54,
+    "Highligt": 36,
+    "Notetaking": 9,
+    "empty": 0
+  },
+  {
+    "username": 108409518,
+    "weeks": 6,
+    "length": 27,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 44,
+    "Notetaking": 3,
+    "empty": 0
+  },
+  {
+    "username": 108409518,
+    "weeks": 7,
+    "length": 29,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 44,
+    "Notetaking": 3,
+    "empty": 0
+  },
+  {
+    "username": 108409519,
+    "weeks": 1,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 28,
+    "Notetaking": 14,
+    "empty": 0
+  },
+  {
+    "username": 108409519,
+    "weeks": 2,
+    "length": 45,
+    "class": 0,
+    "Reading": 48,
+    "Highligt": 40,
+    "Notetaking": 11,
+    "empty": 0
+  },
+  {
+    "username": 108409519,
+    "weeks": 3,
+    "length": 26,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 7,
+    "Notetaking": 42,
+    "empty": 0
+  },
+  {
+    "username": 108409519,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108409519,
+    "weeks": 5,
+    "length": 18,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 5,
+    "Notetaking": 44,
+    "empty": 0
+  },
+  {
+    "username": 108409519,
+    "weeks": 6,
+    "length": 19,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 10,
+    "Notetaking": 36,
+    "empty": 0
+  },
+  {
+    "username": 108409519,
+    "weeks": 7,
+    "length": 16,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 6,
+    "Notetaking": 43,
+    "empty": 0
+  },
+  {
+    "username": 108409523,
+    "weeks": 1,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 42,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108409523,
+    "weeks": 2,
+    "length": 134,
+    "class": 0,
+    "Reading": 44,
+    "Highligt": 32,
+    "Notetaking": 23,
+    "empty": 0
+  },
+  {
+    "username": 108409523,
+    "weeks": 3,
+    "length": 58,
+    "class": 0,
+    "Reading": 43,
+    "Highligt": 31,
+    "Notetaking": 25,
+    "empty": 0
+  },
+  {
+    "username": 108409523,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108409523,
+    "weeks": 5,
+    "length": 48,
+    "class": 0,
+    "Reading": 47,
+    "Highligt": 39,
+    "Notetaking": 12,
+    "empty": 0
+  },
+  {
+    "username": 108409523,
+    "weeks": 6,
+    "length": 38,
+    "class": 0,
+    "Reading": 44,
+    "Highligt": 44,
+    "Notetaking": 10,
+    "empty": 0
+  },
+  {
+    "username": 108409523,
+    "weeks": 7,
+    "length": 20,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 40,
+    "Notetaking": 10,
+    "empty": 0
+  },
+  {
+    "username": 108409526,
+    "weeks": 1,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 33,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108409526,
+    "weeks": 2,
+    "length": 34,
+    "class": 0,
+    "Reading": 47,
+    "Highligt": 38,
+    "Notetaking": 14,
+    "empty": 0
+  },
+  {
+    "username": 108409526,
+    "weeks": 3,
+    "length": 37,
+    "class": 0,
+    "Reading": 48,
+    "Highligt": 21,
+    "Notetaking": 29,
+    "empty": 0
+  },
+  {
+    "username": 108409526,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108409526,
+    "weeks": 5,
+    "length": 13,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 38,
+    "Notetaking": 7,
+    "empty": 0
+  },
+  {
+    "username": 108409526,
+    "weeks": 6,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108409526,
+    "weeks": 7,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108602005,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108602005,
+    "weeks": 2,
+    "length": 30,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 13,
+    "Notetaking": 36,
+    "empty": 0
+  },
+  {
+    "username": 108602005,
+    "weeks": 3,
+    "length": 24,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 20,
+    "Notetaking": 29,
+    "empty": 0
+  },
+  {
+    "username": 108602005,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108602005,
+    "weeks": 5,
+    "length": 16,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 31,
+    "Notetaking": 18,
+    "empty": 0
+  },
+  {
+    "username": 108602005,
+    "weeks": 6,
+    "length": 14,
+    "class": 1,
+    "Reading": 42,
+    "Highligt": 21,
+    "Notetaking": 35,
+    "empty": 0
+  },
+  {
+    "username": 108602005,
+    "weeks": 7,
+    "length": 20,
+    "class": 1,
+    "Reading": 45,
+    "Highligt": 30,
+    "Notetaking": 25,
+    "empty": 0
+  },
+  {
+    "username": 108801501,
+    "weeks": 1,
+    "length": 10,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 30,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 108801501,
+    "weeks": 2,
+    "length": 39,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 43,
+    "Notetaking": 5,
+    "empty": 0
+  },
+  {
+    "username": 108801501,
+    "weeks": 3,
+    "length": 63,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 34,
+    "Notetaking": 14,
+    "empty": 0
+  },
+  {
+    "username": 108801501,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108801501,
+    "weeks": 5,
+    "length": 97,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 35,
+    "Notetaking": 14,
+    "empty": 0
+  },
+  {
+    "username": 108801501,
+    "weeks": 6,
+    "length": 49,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 42,
+    "Notetaking": 6,
+    "empty": 0
+  },
+  {
+    "username": 108801501,
+    "weeks": 7,
+    "length": 31,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 41,
+    "Notetaking": 6,
+    "empty": 0
+  },
+  {
+    "username": 108821021,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108821021,
+    "weeks": 2,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 108821021,
+    "weeks": 3,
+    "length": 23,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 34,
+    "Notetaking": 13,
+    "empty": 0
+  },
+  {
+    "username": 108821021,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 108821021,
+    "weeks": 5,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108821021,
+    "weeks": 6,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 108821021,
+    "weeks": 7,
+    "length": 20,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 45,
+    "Notetaking": 5,
+    "empty": 0
+  },
+  {
+    "username": 109101504,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109101504,
+    "weeks": 2,
+    "length": 72,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 38,
+    "Notetaking": 11,
+    "empty": 0
+  },
+  {
+    "username": 109101504,
+    "weeks": 3,
+    "length": 55,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 45,
+    "Notetaking": 3,
+    "empty": 0
+  },
+  {
+    "username": 109101504,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109101504,
+    "weeks": 5,
+    "length": 63,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 38,
+    "Notetaking": 11,
+    "empty": 0
+  },
+  {
+    "username": 109101504,
+    "weeks": 6,
+    "length": 35,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 45,
+    "Notetaking": 2,
+    "empty": 0
+  },
+  {
+    "username": 109101504,
+    "weeks": 7,
+    "length": 25,
+    "class": 0,
+    "Reading": 52,
+    "Highligt": 44,
+    "Notetaking": 4,
+    "empty": 0
+  },
+  {
+    "username": 109103010,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109103010,
+    "weeks": 2,
+    "length": 39,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 38,
+    "Notetaking": 10,
+    "empty": 0
+  },
+  {
+    "username": 109103010,
+    "weeks": 3,
+    "length": 115,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 36,
+    "Notetaking": 13,
+    "empty": 0
+  },
+  {
+    "username": 109103010,
+    "weeks": 4,
+    "length": 25,
+    "class": 0,
+    "Reading": 52,
+    "Highligt": 48,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109103010,
+    "weeks": 5,
+    "length": 63,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 34,
+    "Notetaking": 14,
+    "empty": 0
+  },
+  {
+    "username": 109103010,
+    "weeks": 6,
+    "length": 39,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 35,
+    "Notetaking": 12,
+    "empty": 0
+  },
+  {
+    "username": 109103010,
+    "weeks": 7,
+    "length": 22,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 22,
+    "Notetaking": 27,
+    "empty": 0
+  },
+  {
+    "username": 109103201,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109103201,
+    "weeks": 2,
+    "length": 69,
+    "class": 0,
+    "Reading": 49,
+    "Highligt": 37,
+    "Notetaking": 13,
+    "empty": 0
+  },
+  {
+    "username": 109103201,
+    "weeks": 3,
+    "length": 51,
+    "class": 0,
+    "Reading": 49,
+    "Highligt": 29,
+    "Notetaking": 21,
+    "empty": 0
+  },
+  {
+    "username": 109103201,
+    "weeks": 4,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 0,
+    "Notetaking": 42,
+    "empty": 0
+  },
+  {
+    "username": 109103201,
+    "weeks": 5,
+    "length": 35,
+    "class": 0,
+    "Reading": 48,
+    "Highligt": 31,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 109103201,
+    "weeks": 6,
+    "length": 50,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 20,
+    "Notetaking": 30,
+    "empty": 0
+  },
+  {
+    "username": 109103201,
+    "weeks": 7,
+    "length": 25,
+    "class": 0,
+    "Reading": 52,
+    "Highligt": 32,
+    "Notetaking": 16,
+    "empty": 0
+  },
+  {
+    "username": 109401006,
+    "weeks": 1,
+    "length": 31,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 48,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109401006,
+    "weeks": 2,
+    "length": 51,
+    "class": 0,
+    "Reading": 47,
+    "Highligt": 41,
+    "Notetaking": 11,
+    "empty": 0
+  },
+  {
+    "username": 109401006,
+    "weeks": 3,
+    "length": 79,
+    "class": 0,
+    "Reading": 45,
+    "Highligt": 36,
+    "Notetaking": 17,
+    "empty": 0
+  },
+  {
+    "username": 109401006,
+    "weeks": 4,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 33,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109401006,
+    "weeks": 5,
+    "length": 40,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 40,
+    "Notetaking": 10,
+    "empty": 0
+  },
+  {
+    "username": 109401006,
+    "weeks": 6,
+    "length": 45,
+    "class": 0,
+    "Reading": 48,
+    "Highligt": 40,
+    "Notetaking": 11,
+    "empty": 0
+  },
+  {
+    "username": 109401006,
+    "weeks": 7,
+    "length": 33,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 45,
+    "Notetaking": 3,
+    "empty": 0
+  },
+  {
+    "username": 109401010,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 109401010,
+    "weeks": 2,
+    "length": 25,
+    "class": 0,
+    "Reading": 48,
+    "Highligt": 32,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 109401010,
+    "weeks": 3,
+    "length": 31,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 38,
+    "Notetaking": 9,
+    "empty": 0
+  },
+  {
+    "username": 109401010,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109401010,
+    "weeks": 5,
+    "length": 33,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 42,
+    "Notetaking": 6,
+    "empty": 0
+  },
+  {
+    "username": 109401010,
+    "weeks": 6,
+    "length": 27,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 44,
+    "Notetaking": 3,
+    "empty": 0
+  },
+  {
+    "username": 109401010,
+    "weeks": 7,
+    "length": 31,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 45,
+    "Notetaking": 3,
+    "empty": 0
+  },
+  {
+    "username": 109401028,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109401028,
+    "weeks": 2,
+    "length": 15,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 26,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 109401028,
+    "weeks": 3,
+    "length": 41,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 24,
+    "Notetaking": 24,
+    "empty": 0
+  },
+  {
+    "username": 109401028,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109401028,
+    "weeks": 5,
+    "length": 27,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 22,
+    "Notetaking": 25,
+    "empty": 0
+  },
+  {
+    "username": 109401028,
+    "weeks": 6,
+    "length": 25,
+    "class": 0,
+    "Reading": 52,
+    "Highligt": 4,
+    "Notetaking": 44,
+    "empty": 0
+  },
+  {
+    "username": 109401028,
+    "weeks": 7,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 0,
+    "Notetaking": 40,
+    "empty": 0
+  },
+  {
+    "username": 109401042,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109401042,
+    "weeks": 2,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 0,
+    "Notetaking": 42,
+    "empty": 0
+  },
+  {
+    "username": 109401042,
+    "weeks": 3,
+    "length": 23,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 0,
+    "Notetaking": 47,
+    "empty": 0
+  },
+  {
+    "username": 109401042,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109401042,
+    "weeks": 5,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 0,
+    "Notetaking": 40,
+    "empty": 0
+  },
+  {
+    "username": 109401042,
+    "weeks": 6,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 109401042,
+    "weeks": 7,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 14,
+    "Notetaking": 28,
+    "empty": 0
+  },
+  {
+    "username": 109401528,
+    "weeks": 1,
+    "length": 6,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 33,
+    "Notetaking": 16,
+    "empty": 0
+  },
+  {
+    "username": 109401528,
+    "weeks": 2,
+    "length": 20,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 15,
+    "Notetaking": 35,
+    "empty": 0
+  },
+  {
+    "username": 109401528,
+    "weeks": 3,
+    "length": 70,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 15,
+    "Notetaking": 34,
+    "empty": 0
+  },
+  {
+    "username": 109401528,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109401528,
+    "weeks": 5,
+    "length": 42,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 7,
+    "Notetaking": 42,
+    "empty": 0
+  },
+  {
+    "username": 109401528,
+    "weeks": 6,
+    "length": 58,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 18,
+    "Notetaking": 31,
+    "empty": 0
+  },
+  {
+    "username": 109401528,
+    "weeks": 7,
+    "length": 46,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 4,
+    "Notetaking": 45,
+    "empty": 0
+  },
+  {
+    "username": 109408001,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 109408001,
+    "weeks": 2,
+    "length": 33,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 42,
+    "Notetaking": 6,
+    "empty": 0
+  },
+  {
+    "username": 109408001,
+    "weeks": 3,
+    "length": 27,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 25,
+    "Notetaking": 22,
+    "empty": 0
+  },
+  {
+    "username": 109408001,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408001,
+    "weeks": 5,
+    "length": 53,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 45,
+    "Notetaking": 3,
+    "empty": 0
+  },
+  {
+    "username": 109408001,
+    "weeks": 6,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 0,
+    "Notetaking": 40,
+    "empty": 0
+  },
+  {
+    "username": 109408001,
+    "weeks": 7,
+    "length": 15,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 0,
+    "Notetaking": 46,
+    "empty": 0
+  },
+  {
+    "username": 109408002,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408002,
+    "weeks": 2,
+    "length": 57,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 43,
+    "Notetaking": 5,
+    "empty": 0
+  },
+  {
+    "username": 109408002,
+    "weeks": 3,
+    "length": 56,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 44,
+    "Notetaking": 5,
+    "empty": 0
+  },
+  {
+    "username": 109408002,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408002,
+    "weeks": 5,
+    "length": 61,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 40,
+    "Notetaking": 8,
+    "empty": 0
+  },
+  {
+    "username": 109408002,
+    "weeks": 6,
+    "length": 49,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 46,
+    "Notetaking": 2,
+    "empty": 0
+  },
+  {
+    "username": 109408002,
+    "weeks": 7,
+    "length": 35,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 45,
+    "Notetaking": 2,
+    "empty": 0
+  },
+  {
+    "username": 109408011,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408011,
+    "weeks": 2,
+    "length": 37,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 43,
+    "Notetaking": 5,
+    "empty": 0
+  },
+  {
+    "username": 109408011,
+    "weeks": 3,
+    "length": 45,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 37,
+    "Notetaking": 11,
+    "empty": 0
+  },
+  {
+    "username": 109408011,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408011,
+    "weeks": 5,
+    "length": 9,
+    "class": 1,
+    "Reading": 55,
+    "Highligt": 22,
+    "Notetaking": 22,
+    "empty": 0
+  },
+  {
+    "username": 109408011,
+    "weeks": 6,
+    "length": 23,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 43,
+    "Notetaking": 4,
+    "empty": 0
+  },
+  {
+    "username": 109408011,
+    "weeks": 7,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 28,
+    "Notetaking": 14,
+    "empty": 0
+  },
+  {
+    "username": 109408510,
+    "weeks": 1,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 33,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408510,
+    "weeks": 2,
+    "length": 74,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 40,
+    "Notetaking": 9,
+    "empty": 0
+  },
+  {
+    "username": 109408510,
+    "weeks": 3,
+    "length": 51,
+    "class": 0,
+    "Reading": 45,
+    "Highligt": 35,
+    "Notetaking": 19,
+    "empty": 0
+  },
+  {
+    "username": 109408510,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408510,
+    "weeks": 5,
+    "length": 39,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 41,
+    "Notetaking": 7,
+    "empty": 0
+  },
+  {
+    "username": 109408510,
+    "weeks": 6,
+    "length": 22,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 31,
+    "Notetaking": 18,
+    "empty": 0
+  },
+  {
+    "username": 109408510,
+    "weeks": 7,
+    "length": 13,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 30,
+    "Notetaking": 15,
+    "empty": 0
+  },
+  {
+    "username": 109408514,
+    "weeks": 1,
+    "length": 11,
+    "class": 1,
+    "Reading": 54,
+    "Highligt": 45,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408514,
+    "weeks": 2,
+    "length": 49,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 32,
+    "Notetaking": 16,
+    "empty": 0
+  },
+  {
+    "username": 109408514,
+    "weeks": 3,
+    "length": 79,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 29,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 109408514,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408514,
+    "weeks": 5,
+    "length": 53,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 30,
+    "Notetaking": 18,
+    "empty": 0
+  },
+  {
+    "username": 109408514,
+    "weeks": 6,
+    "length": 50,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 36,
+    "Notetaking": 14,
+    "empty": 0
+  },
+  {
+    "username": 109408514,
+    "weeks": 7,
+    "length": 27,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 33,
+    "Notetaking": 14,
+    "empty": 0
+  },
+  {
+    "username": 109408529,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408529,
+    "weeks": 2,
+    "length": 68,
+    "class": 0,
+    "Reading": 48,
+    "Highligt": 36,
+    "Notetaking": 14,
+    "empty": 0
+  },
+  {
+    "username": 109408529,
+    "weeks": 3,
+    "length": 126,
+    "class": 0,
+    "Reading": 48,
+    "Highligt": 20,
+    "Notetaking": 30,
+    "empty": 0
+  },
+  {
+    "username": 109408529,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408529,
+    "weeks": 5,
+    "length": 74,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 31,
+    "Notetaking": 18,
+    "empty": 0
+  },
+  {
+    "username": 109408529,
+    "weeks": 6,
+    "length": 45,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 33,
+    "Notetaking": 15,
+    "empty": 0
+  },
+  {
+    "username": 109408529,
+    "weeks": 7,
+    "length": 44,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 27,
+    "Notetaking": 22,
+    "empty": 0
+  },
+  {
+    "username": 109408533,
+    "weeks": 1,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 40,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408533,
+    "weeks": 2,
+    "length": 32,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 40,
+    "Notetaking": 9,
+    "empty": 0
+  },
+  {
+    "username": 109408533,
+    "weeks": 3,
+    "length": 64,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 18,
+    "Notetaking": 31,
+    "empty": 0
+  },
+  {
+    "username": 109408533,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408533,
+    "weeks": 5,
+    "length": 15,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 20,
+    "Notetaking": 26,
+    "empty": 0
+  },
+  {
+    "username": 109408533,
+    "weeks": 6,
+    "length": 37,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 24,
+    "Notetaking": 24,
+    "empty": 0
+  },
+  {
+    "username": 109408533,
+    "weeks": 7,
+    "length": 31,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 9,
+    "Notetaking": 38,
+    "empty": 0
+  },
+  {
+    "username": 109408541,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408541,
+    "weeks": 2,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 0,
+    "Notetaking": 40,
+    "empty": 0
+  },
+  {
+    "username": 109408541,
+    "weeks": 3,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 109408541,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408541,
+    "weeks": 5,
+    "length": 10,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 10,
+    "Notetaking": 40,
+    "empty": 0
+  },
+  {
+    "username": 109408541,
+    "weeks": 6,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 0,
+    "Notetaking": 40,
+    "empty": 0
+  },
+  {
+    "username": 109408541,
+    "weeks": 7,
+    "length": 9,
+    "class": 1,
+    "Reading": 55,
+    "Highligt": 0,
+    "Notetaking": 44,
+    "empty": 0
+  },
+  {
+    "username": 109408546,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408546,
+    "weeks": 2,
+    "length": 69,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 27,
+    "Notetaking": 21,
+    "empty": 0
+  },
+  {
+    "username": 109408546,
+    "weeks": 3,
+    "length": 44,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 29,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 109408546,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109408546,
+    "weeks": 5,
+    "length": 22,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 36,
+    "Notetaking": 13,
+    "empty": 0
+  },
+  {
+    "username": 109408546,
+    "weeks": 6,
+    "length": 50,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 30,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 109408546,
+    "weeks": 7,
+    "length": 38,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 18,
+    "Notetaking": 31,
+    "empty": 0
+  },
+  {
+    "username": 109409017,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 109409017,
+    "weeks": 2,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 0,
+    "Notetaking": 40,
+    "empty": 0
+  },
+  {
+    "username": 109409017,
+    "weeks": 3,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 0,
+    "Notetaking": 42,
+    "empty": 0
+  },
+  {
+    "username": 109409017,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109409017,
+    "weeks": 5,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 109409017,
+    "weeks": 6,
+    "length": 6,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 16,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 109409017,
+    "weeks": 7,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 0,
+    "Notetaking": 40,
+    "empty": 0
+  },
+  {
+    "username": 109503526,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109503526,
+    "weeks": 2,
+    "length": 23,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 13,
+    "Notetaking": 34,
+    "empty": 0
+  },
+  {
+    "username": 109503526,
+    "weeks": 3,
+    "length": 33,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 24,
+    "Notetaking": 24,
+    "empty": 0
+  },
+  {
+    "username": 109503526,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109503526,
+    "weeks": 5,
+    "length": 13,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 0,
+    "Notetaking": 46,
+    "empty": 0
+  },
+  {
+    "username": 109503526,
+    "weeks": 6,
+    "length": 17,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 0,
+    "Notetaking": 47,
+    "empty": 0
+  },
+  {
+    "username": 109503526,
+    "weeks": 7,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 0,
+    "Notetaking": 42,
+    "empty": 0
+  },
+  {
+    "username": 109605514,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 109605514,
+    "weeks": 2,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 0,
+    "Notetaking": 42,
+    "empty": 0
+  },
+  {
+    "username": 109605514,
+    "weeks": 3,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 0,
+    "Notetaking": 42,
+    "empty": 0
+  },
+  {
+    "username": 109605514,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 109605514,
+    "weeks": 5,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 20,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 109605514,
+    "weeks": 6,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 109605514,
+    "weeks": 7,
+    "length": 8,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 0,
+    "Notetaking": 50,
+    "empty": 0
+  },
+  {
+    "username": 110102010,
+    "weeks": 1,
+    "length": 12,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 41,
+    "Notetaking": 8,
+    "empty": 0
+  },
+  {
+    "username": 110102010,
+    "weeks": 2,
+    "length": 40,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 27,
+    "Notetaking": 22,
+    "empty": 0
+  },
+  {
+    "username": 110102010,
+    "weeks": 3,
+    "length": 39,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 43,
+    "Notetaking": 5,
+    "empty": 0
+  },
+  {
+    "username": 110102010,
+    "weeks": 4,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 110102010,
+    "weeks": 5,
+    "length": 41,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 46,
+    "Notetaking": 2,
+    "empty": 0
+  },
+  {
+    "username": 110102010,
+    "weeks": 6,
+    "length": 43,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 41,
+    "Notetaking": 6,
+    "empty": 0
+  },
+  {
+    "username": 110102010,
+    "weeks": 7,
+    "length": 11,
+    "class": 1,
+    "Reading": 54,
+    "Highligt": 36,
+    "Notetaking": 9,
+    "empty": 0
+  },
+  {
+    "username": 110102527,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 110102527,
+    "weeks": 2,
+    "length": 29,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 31,
+    "Notetaking": 17,
+    "empty": 0
+  },
+  {
+    "username": 110102527,
+    "weeks": 3,
+    "length": 6,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 0,
+    "Notetaking": 50,
+    "empty": 0
+  },
+  {
+    "username": 110102527,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110102527,
+    "weeks": 5,
+    "length": 23,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 30,
+    "Notetaking": 17,
+    "empty": 0
+  },
+  {
+    "username": 110102527,
+    "weeks": 6,
+    "length": 17,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 35,
+    "Notetaking": 11,
+    "empty": 0
+  },
+  {
+    "username": 110102527,
+    "weeks": 7,
+    "length": 9,
+    "class": 1,
+    "Reading": 55,
+    "Highligt": 22,
+    "Notetaking": 22,
+    "empty": 0
+  },
+  {
+    "username": 110102528,
+    "weeks": 1,
+    "length": 15,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 40,
+    "Notetaking": 6,
+    "empty": 0
+  },
+  {
+    "username": 110102528,
+    "weeks": 2,
+    "length": 50,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 36,
+    "Notetaking": 14,
+    "empty": 0
+  },
+  {
+    "username": 110102528,
+    "weeks": 3,
+    "length": 49,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 34,
+    "Notetaking": 14,
+    "empty": 0
+  },
+  {
+    "username": 110102528,
+    "weeks": 4,
+    "length": 9,
+    "class": 1,
+    "Reading": 55,
+    "Highligt": 0,
+    "Notetaking": 44,
+    "empty": 0
+  },
+  {
+    "username": 110102528,
+    "weeks": 5,
+    "length": 87,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 27,
+    "Notetaking": 21,
+    "empty": 0
+  },
+  {
+    "username": 110102528,
+    "weeks": 6,
+    "length": 45,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 44,
+    "Notetaking": 4,
+    "empty": 0
+  },
+  {
+    "username": 110102528,
+    "weeks": 7,
+    "length": 33,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 45,
+    "Notetaking": 3,
+    "empty": 0
+  },
+  {
+    "username": 110401055,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110401055,
+    "weeks": 2,
+    "length": 6,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 0,
+    "Notetaking": 50,
+    "empty": 0
+  },
+  {
+    "username": 110401055,
+    "weeks": 3,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 110401055,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110401055,
+    "weeks": 5,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 110401055,
+    "weeks": 6,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 110401055,
+    "weeks": 7,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 110401059,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 110401059,
+    "weeks": 2,
+    "length": 13,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 15,
+    "Notetaking": 30,
+    "empty": 0
+  },
+  {
+    "username": 110401059,
+    "weeks": 3,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 110401059,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110401059,
+    "weeks": 5,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 110401059,
+    "weeks": 6,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 110401059,
+    "weeks": 7,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 110409529,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110409529,
+    "weeks": 2,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 14,
+    "Notetaking": 28,
+    "empty": 0
+  },
+  {
+    "username": 110409529,
+    "weeks": 3,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 110409529,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110409529,
+    "weeks": 5,
+    "length": 9,
+    "class": 1,
+    "Reading": 55,
+    "Highligt": 0,
+    "Notetaking": 44,
+    "empty": 0
+  },
+  {
+    "username": 110409529,
+    "weeks": 6,
+    "length": 4,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 0,
+    "Notetaking": 50,
+    "empty": 0
+  },
+  {
+    "username": 110409529,
+    "weeks": 7,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110409537,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110409537,
+    "weeks": 2,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 110409537,
+    "weeks": 3,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 110409537,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 110409537,
+    "weeks": 5,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 110409537,
+    "weeks": 6,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110409537,
+    "weeks": 7,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 110801005,
+    "weeks": 1,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 20,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 110801005,
+    "weeks": 2,
+    "length": 47,
+    "class": 0,
+    "Reading": 48,
+    "Highligt": 25,
+    "Notetaking": 25,
+    "empty": 0
+  },
+  {
+    "username": 110801005,
+    "weeks": 3,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 0,
+    "Notetaking": 42,
+    "empty": 0
+  },
+  {
+    "username": 110801005,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110801005,
+    "weeks": 5,
+    "length": 9,
+    "class": 1,
+    "Reading": 55,
+    "Highligt": 11,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 110801005,
+    "weeks": 6,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 20,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 110801005,
+    "weeks": 7,
+    "length": 7,
+    "class": 1,
+    "Reading": 57,
+    "Highligt": 14,
+    "Notetaking": 28,
+    "empty": 0
+  },
+  {
+    "username": 110801509,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110801509,
+    "weeks": 2,
+    "length": 37,
+    "class": 0,
+    "Reading": 48,
+    "Highligt": 29,
+    "Notetaking": 21,
+    "empty": 0
+  },
+  {
+    "username": 110801509,
+    "weeks": 3,
+    "length": 11,
+    "class": 1,
+    "Reading": 54,
+    "Highligt": 9,
+    "Notetaking": 36,
+    "empty": 0
+  },
+  {
+    "username": 110801509,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110801509,
+    "weeks": 5,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  },
+  {
+    "username": 110801509,
+    "weeks": 6,
+    "length": 9,
+    "class": 1,
+    "Reading": 55,
+    "Highligt": 33,
+    "Notetaking": 11,
+    "empty": 0
+  },
+  {
+    "username": 110801509,
+    "weeks": 7,
+    "length": 13,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 30,
+    "Notetaking": 15,
+    "empty": 0
+  },
+  {
+    "username": 110821010,
+    "weeks": 1,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 40,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 110821010,
+    "weeks": 2,
+    "length": 39,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 46,
+    "Notetaking": 2,
+    "empty": 0
+  },
+  {
+    "username": 110821010,
+    "weeks": 3,
+    "length": 65,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 47,
+    "Notetaking": 1,
+    "empty": 0
+  },
+  {
+    "username": 110821010,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 110821010,
+    "weeks": 5,
+    "length": 50,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 40,
+    "Notetaking": 10,
+    "empty": 0
+  },
+  {
+    "username": 110821010,
+    "weeks": 6,
+    "length": 53,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 47,
+    "Notetaking": 1,
+    "empty": 0
+  },
+  {
+    "username": 110821010,
+    "weeks": 7,
+    "length": 20,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 50,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 111101021,
+    "weeks": 1,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 111101021,
+    "weeks": 2,
+    "length": 25,
+    "class": 0,
+    "Reading": 48,
+    "Highligt": 8,
+    "Notetaking": 44,
+    "empty": 0
+  },
+  {
+    "username": 111101021,
+    "weeks": 3,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 111101021,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 0,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 100
+  },
+  {
+    "username": 111101021,
+    "weeks": 5,
+    "length": 20,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 10,
+    "Notetaking": 40,
+    "empty": 0
+  },
+  {
+    "username": 111101021,
+    "weeks": 6,
+    "length": 18,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 5,
+    "Notetaking": 44,
+    "empty": 0
+  },
+  {
+    "username": 111101021,
+    "weeks": 7,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 0,
+    "Notetaking": 40,
+    "empty": 0
+  },
+  {
+    "username": 111108001,
+    "weeks": 1,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 40,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 111108001,
+    "weeks": 2,
+    "length": 21,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 19,
+    "Notetaking": 28,
+    "empty": 0
+  },
+  {
+    "username": 111108001,
+    "weeks": 3,
+    "length": 21,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 28,
+    "Notetaking": 19,
+    "empty": 0
+  },
+  {
+    "username": 111108001,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 111108001,
+    "weeks": 5,
+    "length": 9,
+    "class": 1,
+    "Reading": 55,
+    "Highligt": 0,
+    "Notetaking": 44,
+    "empty": 0
+  },
+  {
+    "username": 111108001,
+    "weeks": 6,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 20,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 111108001,
+    "weeks": 7,
+    "length": 9,
+    "class": 1,
+    "Reading": 55,
+    "Highligt": 0,
+    "Notetaking": 44,
+    "empty": 0
+  },
+  {
+    "username": 111408010,
+    "weeks": 1,
+    "length": 37,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 43,
+    "Notetaking": 5,
+    "empty": 0
+  },
+  {
+    "username": 111408010,
+    "weeks": 2,
+    "length": 99,
+    "class": 0,
+    "Reading": 48,
+    "Highligt": 34,
+    "Notetaking": 17,
+    "empty": 0
+  },
+  {
+    "username": 111408010,
+    "weeks": 3,
+    "length": 27,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 0,
+    "Notetaking": 48,
+    "empty": 0
+  },
+  {
+    "username": 111408010,
+    "weeks": 4,
+    "length": 35,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 45,
+    "Notetaking": 2,
+    "empty": 0
+  },
+  {
+    "username": 111408010,
+    "weeks": 5,
+    "length": 49,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 32,
+    "Notetaking": 16,
+    "empty": 0
+  },
+  {
+    "username": 111408010,
+    "weeks": 6,
+    "length": 33,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 21,
+    "Notetaking": 27,
+    "empty": 0
+  },
+  {
+    "username": 111408010,
+    "weeks": 7,
+    "length": 13,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 7,
+    "Notetaking": 38,
+    "empty": 0
+  },
+  {
+    "username": 111409523,
+    "weeks": 1,
+    "length": 10,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 40,
+    "Notetaking": 10,
+    "empty": 0
+  },
+  {
+    "username": 111409523,
+    "weeks": 2,
+    "length": 39,
+    "class": 0,
+    "Reading": 51,
+    "Highligt": 38,
+    "Notetaking": 10,
+    "empty": 0
+  },
+  {
+    "username": 111409523,
+    "weeks": 3,
+    "length": 23,
+    "class": 1,
+    "Reading": 52,
+    "Highligt": 43,
+    "Notetaking": 4,
+    "empty": 0
+  },
+  {
+    "username": 111409523,
+    "weeks": 4,
+    "length": 2,
+    "class": 1,
+    "Reading": 50,
+    "Highligt": 50,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 111409523,
+    "weeks": 5,
+    "length": 36,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 44,
+    "Notetaking": 5,
+    "empty": 0
+  },
+  {
+    "username": 111409523,
+    "weeks": 6,
+    "length": 30,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 46,
+    "Notetaking": 3,
+    "empty": 0
+  },
+  {
+    "username": 111409523,
+    "weeks": 7,
+    "length": 13,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 38,
+    "Notetaking": 7,
+    "empty": 0
+  },
+  {
+    "username": 111409524,
+    "weeks": 1,
+    "length": 25,
+    "class": 0,
+    "Reading": 48,
+    "Highligt": 44,
+    "Notetaking": 8,
+    "empty": 0
+  },
+  {
+    "username": 111409524,
+    "weeks": 2,
+    "length": 34,
+    "class": 0,
+    "Reading": 50,
+    "Highligt": 44,
+    "Notetaking": 5,
+    "empty": 0
+  },
+  {
+    "username": 111409524,
+    "weeks": 3,
+    "length": 15,
+    "class": 1,
+    "Reading": 53,
+    "Highligt": 40,
+    "Notetaking": 6,
+    "empty": 0
+  },
+  {
+    "username": 111409524,
+    "weeks": 4,
+    "length": 1,
+    "class": -1,
+    "Reading": 100,
+    "Highligt": 0,
+    "Notetaking": 0,
+    "empty": 0
+  },
+  {
+    "username": 111409524,
+    "weeks": 5,
+    "length": 5,
+    "class": 1,
+    "Reading": 60,
+    "Highligt": 20,
+    "Notetaking": 20,
+    "empty": 0
+  },
+  {
+    "username": 111409524,
+    "weeks": 6,
+    "length": 11,
+    "class": 1,
+    "Reading": 54,
+    "Highligt": 36,
+    "Notetaking": 9,
+    "empty": 0
+  },
+  {
+    "username": 111409524,
+    "weeks": 7,
+    "length": 3,
+    "class": 1,
+    "Reading": 66,
+    "Highligt": 0,
+    "Notetaking": 33,
+    "empty": 0
+  }
+]
