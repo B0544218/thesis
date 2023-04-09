@@ -3,11 +3,9 @@ fetch('./questionnaire.json').then((response) => {
   return response.json();
 }).then((s_json) => {
 s_json = s_json.filter(function(obj) {
-  return obj.username == 108208505;
+  return obj.username == 109408533;
 });
-console.log(s_json);
-// s_json = s_json.find(element => element["username"] == "std1");
-  
+// s_json = s_json.find(element => element["username"] == 109408533);
   Highcharts.chart('t1', {
     chart: {
         polar: true,
