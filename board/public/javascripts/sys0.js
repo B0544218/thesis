@@ -2,8 +2,11 @@
 fetch('./questionnaire.json').then((response) => {
   return response.json();
 }).then((s_json) => {
-  s_json = s_json.find(element => element["username"] == "std1");
-//  console.log(s_json);
+s_json = s_json.filter(function(obj) {
+  return obj.username == 108208505;
+});
+console.log(s_json);
+// s_json = s_json.find(element => element["username"] == "std1");
   
   Highcharts.chart('t1', {
     chart: {
@@ -31,7 +34,9 @@ fetch('./questionnaire.json').then((response) => {
     yAxis: {
         gridLineInterpolation: 'polygon',
         lineWidth: 0,
-        min: 0
+		tickInterval: 1,
+        max: 5,
+		min: 1
     },
 
     tooltip: {
@@ -48,9 +53,9 @@ fetch('./questionnaire.json').then((response) => {
     series: [
 	{
 		name: ['Motivation'],
-        data: [s_json['Intrinsic Goal Orientation'], s_json['Extrinsic Goal Orientation'],
-		s_json['Task Value'], s_json['Control Beliefs'],
-		s_json['Self-Efficacy for Learning and Performance'], s_json['Test Anxiety ']],
+        data: [s_json[0]['Intrinsic Goal Orientation'], s_json[0]['Extrinsic Goal Orientation'],
+		s_json[0]['Task Value'], s_json[0]['Control Beliefs'],
+		s_json[0]['Self-Efficacy for Learning and Performance'], s_json[0]['Test Anxiety ']],
         pointPlacement: 'off'
     }]
 
@@ -83,7 +88,9 @@ Highcharts.chart('t2', {
     yAxis: {
         gridLineInterpolation: 'polygon',
         lineWidth: 0,
-        min: 0
+		tickInterval: 1,
+		max: 5,
+		min:1
     },
 
     tooltip: {
@@ -100,9 +107,9 @@ Highcharts.chart('t2', {
     series: [
 	{
 		name: ['Strategy'],
-        data: [s_json['Rehearsal'], s_json['Elaboration'], s_json['Marker Memo quality'],
-		s_json['Critical Thinking'], s_json['Metacognitive Self-Regulation'], s_json['Time and Study Environment'],
-		s_json['Effort Regulation'], s_json['Peer Learning'], s_json['Help Seeking']],
+        data: [s_json[0]['Rehearsal'], s_json[0]['Elaboration'], s_json[0]['Marker Memo quality'],
+		s_json[0]['Critical Thinking'], s_json[0]['Metacognitive Self-Regulation'], s_json[0]['Time and Study Environment'],
+		s_json[0]['Effort Regulation'], s_json[0]['Peer Learning'], s_json[0]['Help Seeking']],
         pointPlacement: 'off'
     }]
 
